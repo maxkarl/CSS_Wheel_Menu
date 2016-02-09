@@ -1,2 +1,2 @@
-# CSS_Wheel_Menu without Javascript
+# CSS Wheel Menu without Javascript
 
